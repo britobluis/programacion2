@@ -5,8 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class TP_Arreglos_Ej2_Arraylist {
-
-   
+    
     public static void main(String[] args) {
         ArrayList<Integer> numero = new ArrayList<>();
         int numeroMayor = 0; 
